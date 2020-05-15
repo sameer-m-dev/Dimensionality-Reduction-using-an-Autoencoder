@@ -2,9 +2,8 @@
 
 We will accomplish the final task by completing each task in the project:
 
-* <b>Introduction</b>: A brief explanation of the topic and goals we hope to achieve, as well as a demo of the final model we design.
-* <b>Task 1</b>: Exploratory Data Analysis + Visualization
-* <b>Task 2</b>: Data Cleaning and Preprocessing
-* <b>Task 3</b>: The Naive Bayes Model
-* <b>Task 4</b>: Highlighting shortcomings of model and implementing small changes to improve performance
-* <b>Task 5</b>: Use advanced Natural Language Processing techniques to improve model performance and address class imbalance (subword units
+* <b>Task 1</b>: An introduction to the problem, as well as a summary of the imports we will need
+* <b>Task 2</b>: Dataset creation and preprocessing relevant for our tasks
+* <b>Task 3</b>: Using PCA as a baseline for model performance
+* <b>Task 4</b>: Autoencoder Training
+* <b>Task 5</b>: Reducing dimensionality using the encoder half of an autoencoder within scikit-learn (parts 1 & 2)
